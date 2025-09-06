@@ -1,8 +1,26 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/osama726/osama726/main/banner.png" alt="Welcome Banner" width="100%"/>
-
 <h1 align="center">Hi, I'm Osama</h1>
 <h3 align="center">Web Developer | Passionate about building open-source projects 🚀</h3>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/osama-gamal1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="oosamaaggamall@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+201098154424" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/1B5h5CyF5T/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Osama_Gamalll" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -41,10 +59,8 @@
 ---
 
 ## 📂 Featured Projects
-- [🎨 Portfolio Website](https://github.com/osama726/portfolio) — Personal portfolio to showcase my work
-- [🛒 Personal Website](https://osamaa.rf.gd/personal_website/index.html?i=2) — A personal website project
-- [📝 Blog Platform](https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1) — A simple blogging platform
-
+- [🎨 Portfolio Website](https://osamaa.rf.gd/personal_website/index.html?i=2) — Personal portfolio to showcase my work
+- [📝 Medical Website](https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1) — Website for integrated medical services
 ---
 
 ## 📊 GitHub Stats
@@ -59,19 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama726&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/osama-gamal1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="oosamaaggamall@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
 </p>
 
 ---
