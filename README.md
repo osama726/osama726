@@ -2,8 +2,6 @@
 <h3 align="center">Web Developer | Passionate about building open-source projects 🚀</h3>
 
 ---
-
-## 🌐 Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/osama-gamal1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,6 +30,11 @@
 
 ---
 
+## 📂 Featured Projects
+- [🎨 Portfolio Website](https://osamaa.rf.gd/personal_website/index.html?i=2) — Personal portfolio to showcase my work
+- [📝 Medical Website](https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1) — Website for integrated medical services
+---
+
 ## 🛠️ Skills
 
 ### 🔹 Back-End
@@ -58,23 +61,10 @@
 
 ---
 
-## 📂 Featured Projects
-- [🎨 Portfolio Website](https://osamaa.rf.gd/personal_website/index.html?i=2) — Personal portfolio to showcase my work
-- [📝 Medical Website](https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1) — Website for integrated medical services
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osama726&show_icons=true&theme=tokyonight" alt="Osama's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama726&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama726&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
