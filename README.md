@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="https://raw.githubusercontent.com/osama726/osama726/main/banner.png" alt="Welcome Banner" width="100%"/>
+
 <h1 align="center">Hi, I'm Osama</h1>
 <h3 align="center">Web Developer | Passionate about building open-source projects 🚀</h3>
 
@@ -53,3 +56,24 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama726&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama726&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/osama-gamal1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="oosamaaggamall@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+⭐️ If you like my work, feel free to give a **Star** to any of my repositories — it motivates me to share more!
