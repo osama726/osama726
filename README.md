@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://x.com/Osama_Gamalll" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
@@ -29,18 +29,18 @@
 ---
 
 ## 📂 Featured Projects
-- <ul>
-    <li>
-      🎨 <a href="https://osamaa.rf.gd/personal_website/index.html?i=2" target="_blank" rel="noopener noreferrer">
-        Portfolio Website
-      </a> — Personal portfolio to showcase my work
-    </li>
-    <li>
-      📝 <a href="https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1" target="_blank" rel="noopener noreferrer">
-        Medical Website
-      </a> — Website for integrated medical services
-    </li>
-  </ul>
+<ul>
+  <li>
+    🎨 <a href="https://osamaa.rf.gd/personal_website/index.html?i=2" target="_blank" rel="noopener noreferrer">
+      Portfolio Website
+    </a> — Personal portfolio to showcase my work
+  </li>
+  <li>
+    📝 <a href="https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1" target="_blank" rel="noopener noreferrer">
+      Medical Website
+    </a> — Website for integrated medical services
+  </li>
+</ul>
 ---
 
 ## 🛠️ Skills
