@@ -4,18 +4,18 @@
 ---
 
 ## 🧑‍💻 About Me
--  Web Developer (Back-End)
--  technology used **PHP** and **LARAVEL**
--  I love building practical web applications and sharing knowledge
--  Goal: Keep improving my skills and contribute to impactful projects
+- Web Developer (Back-End)
+- Technologies: **PHP** and **Laravel**
+- I love building practical web applications and sharing knowledge
+- Goal: Keep improving my skills and contribute to impactful projects
 
 ---
 
 ## 🛠️ Skills
 
 ### 🔹 Back-End
-![PHP](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,16 +31,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🔹 FUNDAMENTALS
-![C++](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![OOP](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🔹 Fundamentals
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-323330?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 - [🎨 Portfolio Website](https://github.com/osama726/portfolio) — Personal portfolio to showcase my work
-- [🛒 Personal Website]([https://github.com/osama726/ecommerce](https://osamaa.rf.gd/personal_website/index.html?i=2)) — A sample e-commerce application
-- [📝 Blog Platform]([https://github.com/osama726/blog](https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1)) — A simple blogging platform
+- [🛒 Personal Website](https://osamaa.rf.gd/personal_website/index.html?i=2) — A personal website project
+- [📝 Blog Platform](https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1) — A simple blogging platform
 
 ---
 
@@ -51,4 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.v
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama726&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
