@@ -31,12 +31,12 @@
 ## 📂 Featured Projects
 <ul>
   <li>
-    🎨 <a href="https://osamaa.rf.gd/personal_website/index.html?i=2" target="_blank" rel="noopener noreferrer">
+    🎨 <a href="https://osamaa.rf.gd/index.html?i=1" target="_blank" rel="noopener noreferrer">
       Portfolio Website
     </a> — Personal portfolio to showcase my work
   </li>
   <li>
-    📝 <a href="https://pharmafriend.infy.uk/pharma_friend/front/home_page.php?i=1" target="_blank" rel="noopener noreferrer">
+    📝 <a href="https://pharmafriend.gt.tc/pharma_friend/front/home_page.php" target="_blank" rel="noopener noreferrer">
       Medical Website
     </a> — Website for integrated medical services
   </li>
