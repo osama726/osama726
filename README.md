@@ -31,7 +31,7 @@
 ## 📂 Featured Projects
 <ul>
   <li>
-    🎨 <a href="https://osamaa.rf.gd/index.html?i=1" target="_blank" rel="noopener noreferrer">
+    🎨 <a href="https://osamaa.page.gd/" target="_blank" rel="noopener noreferrer">
       Portfolio Website
     </a> — Personal portfolio to showcase my work
   </li>
