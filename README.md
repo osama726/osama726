@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama gamal&show_icons=true&theme=tokyonight" alt="Osama's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=osama726&show_icons=true&theme=tokyonight" alt="Osama's GitHub stats"/>
 </p>
 
 ---
